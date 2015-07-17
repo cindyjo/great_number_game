@@ -1,0 +1,33 @@
+*{
+	margin: 0px auto;
+	text-align: center;
+	font-family: sans-serif;
+}
+h2, p, label {
+	margin-bottom: 20px;
+}
+p, label{
+	display: block;
+}
+
+h2 {
+	margin-top: 100px;
+}
+.hint, .congratulation
+{
+	width: 200px;
+	height: 125px;
+	border: 1px solid black;
+	padding: 125px 50px 50px 50px;
+	color: white;
+	margin-bottom: 20px;
+}
+.hint 
+{
+	background-color: red;
+}
+
+.congratulation
+{
+	background-color: green;
+}
